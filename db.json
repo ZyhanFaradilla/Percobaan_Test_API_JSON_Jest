@@ -1,0 +1,40 @@
+{
+  "company": {
+    "name": "NodeFlux",
+    "city": "Jakarta",
+    "address": "Jalan Merdeka",
+    "country": "Indonesia"
+  },
+  "customers": [
+    {
+      "id": "0dbf3b7f-f70e-40b0-bb31-fc2c0a5b011d",
+      "name": "Munaroh",
+      "jobTitle": "Mahasiswa",
+      "email": "munaroh@gmail.com",
+      "phone": "08947258976"
+    },
+    {},
+    {
+      "id": "b4bb886f-d4e9-476f-a9f8-90c15eef04c7",
+      "name": "Rudi",
+      "jobTitle": "Mahasiswa",
+      "email": "rudi@gmail.com",
+      "phone": "0875625487"
+    },
+    {
+      "id": "b4bb886f-d4e9-476f-a9f8-90c15eef04c3",
+      "name": "Mika",
+      "jobTitle": "Mahasiswa",
+      "email": "mika@gmail.com",
+      "phone": "08947258886"
+    },
+    {
+      "id": "b4bb886f-d4e9-476f-a9f8-90c15eef04c3",
+      "name": "Rika",
+      "jobTitle": "Mahasiswa",
+      "email": "rika@gmail.com",
+      "phone": "0857862561"
+    }
+  ],
+  "count": 0
+}
